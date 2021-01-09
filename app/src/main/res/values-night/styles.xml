@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp.Base" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccentNight</item>
+        <item name="materialButtonStyle">@style/Widget.MyApp.Button</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimaryNight</item>
+    </style>
+
+    <style name="Widget.MyApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/colorTextNight</item>
+    </style>
+
+    <style name="ThemeOverlay.MyApp.ButtonAction" parent="">
+        <item name="colorPrimary">@color/colorActionButtonNight</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textColor">@color/colorTextNight</item>
+    </style>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#109688</color>
+    <color name="colorPrimaryDark">#00695b</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!--<color name="colorPrimaryVariant">#00695b</color>
+    <color name="colorSecondary">#d23235</color>
+    <color name="colorSecondaryVariant">#b3202e</color>-->
+    <color name="colorActionButton">#FFC107</color>
+    <color name="colorPrimaryNight">#404241</color>
+    <color name="colorPrimaryDarkNight">#1f2120</color>
+    <color name="colorAccentNight">#9b9e9d</color>
+    <color name="colorActionButtonNight">#737574</color>
+    <color name="colorTextPrimary">#1f2120</color>
+    <color name="colorText">#1f2120</color>
+    <color name="colorTextPrimaryNight">#9b9e9d</color>
+    <color name="colorTextNight">#9b9e9d</color>
+
+</resources>
